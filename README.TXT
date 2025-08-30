@@ -20,4 +20,17 @@ list.
 22. A window opens with the result, which gives the student's name. At the top it says "Return the full name of this student."
 24. A window opens with the result, which gives the number of students currently enrolled in the class (which is currently 0).
 29. Instructor: "Mr.Instructor"; Class: "A-123"; Time:Friday, 8am".
+31. What are the types of the following values?
+   0 = int
+   “hello” = string
+   101 = int
+   -1 = int
+   true = boolean
+   “33” = string
+   3.1415 = float/double
+32. I would add a "private String name;" at the top of the circle's code.
+33.
+34.
+35. It's an object and its class would be books or textbooks. My textbook is a specific example from the category(class) that is textbooks/books.
+36. I think an object can have multiple classes. For example, if I take a specific airplane(like a blue private jet), its class could be "airplanes" in general, but it could also be "modes of transportation".
 
