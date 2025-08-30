@@ -18,3 +18,4 @@ Add the students to the class using the "enrolStudent" method. Print a class
 list.
 
 22. A window opens with the result, which gives the student's name. At the top it says "Return the full name of this student."
+24. A window opens with the result, which gives the number of students currently enrolled in the class (which is currently 0).
