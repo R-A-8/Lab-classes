@@ -16,3 +16,5 @@ some simple code. See chapters one and three of the book.
 To use this project, create some Student objects, then create a LabClass object.
 Add the students to the class using the "enrolStudent" method. Print a class
 list.
+
+22. A window opens with the result, which gives the student's name. At the top it says "Return the full name of this student."
