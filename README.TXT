@@ -29,8 +29,26 @@ list.
    “33” = string
    3.1415 = float/double
 32. I would add a "private String name;" at the top of the circle's code.
-33.
-34.
+34. I wrote "private int average" to the top of the student class code.
+    To make the method appear, I wrote this code(Based on the code for the studentId, studentName, etc.):
+    /**
+     * Give an average
+     */
+    public Student(int firstNumber, int secondNumber)
+    {
+        average = firstNumber;
+        average = secondNumber; 
+    } 
+   To make it give a return, I wrote this code, also based on the return for the studentName:
+    /**
+     * Return the average of the numbers.
+     */
+    public int getAverage()
+    {
+        return average;
+    }
+  
 35. It's an object and its class would be books or textbooks. My textbook is a specific example from the category(class) that is textbooks/books.
 36. I think an object can have multiple classes. For example, if I take a specific airplane(like a blue private jet), its class could be "airplanes" in general, but it could also be "modes of transportation".
 
+For both questions 33 and 34, I'm not sure if I created a "method", because the "method" would appear when I right-clicked on the class, not on the object. I think it might be because I wrote the private int and private string at the top of the code, but I'm not sure how to fix it.
