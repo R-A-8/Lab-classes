@@ -29,6 +29,18 @@ list.
    “33” = string
    3.1415 = float/double
 32. I would add a "private String name;" at the top of the circle's code.
+33. I wrote "private String send;" at the top of the student class code
+    I wrote this code based on the studentId code and the one I did in question 34:
+/**
+     * Send something
+     */
+    public Student( String aMessage)
+    {
+        send = aMessage;
+         
+    }
+    Since I didn't need a return message, I didn't write one.
+
 34. I wrote "private int average" to the top of the student class code.
     To make the method appear, I wrote this code(Based on the code for the studentId, studentName, etc.):
     /**
