@@ -19,3 +19,5 @@ list.
 
 22. A window opens with the result, which gives the student's name. At the top it says "Return the full name of this student."
 24. A window opens with the result, which gives the number of students currently enrolled in the class (which is currently 0).
+29. Instructor: "Mr.Instructor"; Class: "A-123"; Time:Friday, 8am".
+
